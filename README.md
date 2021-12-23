@@ -33,3 +33,10 @@ If you are using Emulators, do the following:
 When using a Device, install Expo on your phone from the Google PlayStore or the App Store
 
 Use `expo start` to start the app and scan the bar code using your phone and the bundling will begin.
+
+#### Tested Devices
+
+The application has been tested on the following devices:
+
+- Huawei P30 Lite
+- iPhone X
